@@ -1,4 +1,5 @@
 # sing-up-page
 
-https://user-images.githubusercontent.com/108885771/218117291-e3436c83-3ce2-4a4b-921d-30e9651108ea.mp4
+![image](https://user-images.githubusercontent.com/108885771/218117525-60c8405f-bcae-465e-b40b-3feb9775442f.png)
+
 
